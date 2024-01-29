@@ -1,2 +1,1 @@
-# api-exercises
-The repo was created using GitHub API.
+The repo was created and updated using GitHub API.
